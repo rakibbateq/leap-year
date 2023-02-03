@@ -20,3 +20,4 @@ function leapyear(year){
  leapyear(1600);
  leapyear(1700);
  leapyear(1721);
+ leapyear(1952);
